@@ -1,2 +1,2 @@
-# GuessANumberByValentin
-This is a simple console game "Guess A Number"
+# GuessANumberByUsernameByMasterValentin
+This is a simple console game "Guess a number"
